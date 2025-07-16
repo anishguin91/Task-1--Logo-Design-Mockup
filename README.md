@@ -19,7 +19,7 @@ Variant 3 features a hexagonal icon, symbolizing security and structure. The "CT
 
 Variant 4 takes a bold approach with a large, rounded CT monogram supported by wave lines, symbolizing smart connectivity and modern IT solutions. This version gives off a dynamic and adaptive identity, aligned with Codtech’s focus on smart systems and flexibility.
 
-For all versions, I designed mobile-first UI layouts to demonstrate real-world application. I used Figma for layout design and Adobe Illustrator for logo development. I paid close attention to color harmony, scalability, typography, and button styling to ensure that each variant would work across platforms and maintain brand consistency.
+For all versions, I designed mobile-first UI layouts to demonstrate real-world application. I used Figma for layout design logo development. I paid close attention to color harmony, scalability, typography, and button styling to ensure that each variant would work across platforms and maintain brand consistency.
 
 Throughout the process, I shared my progress regularly with mentors, took feedback constructively, and iterated on ideas to improve clarity and balance. I made sure each design was aligned with both the technical offerings and brand tone of Codtech.
 
