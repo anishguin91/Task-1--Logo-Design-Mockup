@@ -24,3 +24,12 @@ For all versions, I designed mobile-first UI layouts to demonstrate real-world a
 Throughout the process, I shared my progress regularly with mentors, took feedback constructively, and iterated on ideas to improve clarity and balance. I made sure each design was aligned with both the technical offerings and brand tone of Codtech.
 
 This task enhanced my understanding of branding through UI design, how visual choices impact brand identity, and the importance of presenting multiple creative solutions. I learned to combine user interface thinking with visual storytelling, which is a crucial skill for any modern UI/UX Designer.
+
+
+# Output: 
+
+
+<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/1e770414-9b6b-444b-836c-0638c6ebf3d3" />
+<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/7665a3fc-09ef-4830-9edb-e7ce27860aa1" />
+<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/8a2a7fdd-a4e6-4de5-8f23-6e117841b41c" />
+<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/f94b9e22-6a92-45d6-8106-ac6389371fe7" />
