@@ -29,7 +29,7 @@ This task enhanced my understanding of branding through UI design, how visual ch
 # Output: 
 
 
-<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/1e770414-9b6b-444b-836c-0638c6ebf3d3" />
-<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/7665a3fc-09ef-4830-9edb-e7ce27860aa1" />
-<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/8a2a7fdd-a4e6-4de5-8f23-6e117841b41c" />
-<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/f94b9e22-6a92-45d6-8106-ac6389371fe7" />
+<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/fab2fd67-d22e-47ca-abd6-3dab08bf9ff6" />
+<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/5836a9cd-a850-49cc-b6a4-4da51030bce5" />
+<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/e3ca24c3-45cf-4c77-b831-af8dd3270c83" />
+<img width="390" height="740" alt="Image" src="https://github.com/user-attachments/assets/ea0ec678-df67-4b73-a631-b8567a24a236" />
